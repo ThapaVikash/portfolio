@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<title>Acme — Home</title>
+	<title>Vikasjung</title>
 	<meta name="description" content="Simple responsive landing page with navbar and sections.">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -80,7 +80,7 @@
 		<div class="container nav-inner">
 			<a href="#" class="brand">
 				<span class="logo" aria-hidden="true"></span>
-				<span>Acme</span>
+				<span>Vikasjung</span>
 			</a>
 			<nav class="menu" aria-label="Primary">
 				<a href="#home">Home</a>
@@ -92,7 +92,7 @@
 				<a href="#contact">Contact</a>
 			</nav>
 			<div class="cta-wrap">
-				<a class="btn ghost" href="#login">Log in</a>
+				<a class="btn ghost" href="ldevlara-app\views\login.blade.php">Log in</a>
 				<a class="btn primary" href="#signup">Get Started</a>
 			</div>
 			<button class="burger" id="burger" aria-label="Toggle navigation">☰</button>
@@ -112,8 +112,8 @@
 	<!-- Hero -->
 	<section id="home" class="hero container">
 		<span class="tag">New</span>
-		<h1>Build a beautiful landing page in minutes</h1>
-		<p>Clean, responsive starter with a sticky navbar, smooth section links, and all the must‑have blocks to get you live fast.</p>
+		<h1>Hello! I am Bikash Thapa</h1>
+		<p>My first portfolio project using laravel blade</p>
 		<div class="hero-cta">
 			<a class="btn primary" href="#signup">Get Started</a>
 			<a class="btn" href="#features">See Features</a>
@@ -173,7 +173,7 @@
 			<div class="grid features">
 				<div class="card">
 					<h3>Starter Site</h3>
-					<p class="small">One‑page landing, basic analytics, email capture.</p>
+					<p clas="small">One‑page landing, basic analytics, email capture.</p>
 				</div>
 				<div class="card">
 					<h3>Growth</h3>
@@ -251,7 +251,7 @@
 	<!-- Footer -->
 	<footer class="footer">
 		<div class="container" style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px">
-			<span>© <span id="y"></span> Acme Inc.</span>
+			<span>© <span id="y"></span> Made with by Vikasjung</span>
 			<nav style="display:flex;gap:14px">
 				<a href="#privacy">Privacy</a>
 				<a href="#terms">Terms</a>
